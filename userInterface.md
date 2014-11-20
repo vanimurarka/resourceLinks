@@ -4,7 +4,7 @@
 * Learn CSS Layout [http://learnlayout.com/toc.html](http://learnlayout.com/toc.html)
 
 ##Responsive Design
-* Responsive Web Design http://learn.shayhowe.com/advanced-html-css/responsive-web-design/s
+* Responsive Web Design http://learn.shayhowe.com/advanced-html-css/responsive-web-design/
 * Web Fundamentals - Make It Responsive [https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/responsive](https://developers.google.com/web/fundamentals/getting-started/your-first-multi-screen-site/responsive)
 * Google Multi-Screen Resources [http://www.google.com/think/multiscreen/#gomo-meter](http://www.google.com/think/multiscreen/#gomo-meter)
 * Responsive Tables [http://dbushell.com/demos/tables/rt_05-01-12.html](http://dbushell.com/demos/tables/rt_05-01-12.html)
